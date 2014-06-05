@@ -1,1 +1,8 @@
 First trial project with Github.
+
+Pushed on Github with :
+$ git remote add origin https://github.com/pchantry/hello-world.git
+$ git push -u origin master
+
+Before next "git push":
+$ git config --global push.default simple
